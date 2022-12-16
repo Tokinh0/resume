@@ -6,47 +6,145 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Professional Experiences"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "PixPrint",
+        "startDate": "2017",
+        "description": "As a developer, working on a project that manages the process of manufacturing blackboards for the first time was a challenging and rewarding experience. I had to become familiar with the project's specification and requirements, as well as the technologies being used, including Ruby on Rails, HTML, CSS, and PostgreSQL. Setting up the development environment and building the application required a lot of learning and problem-solving, but I was able to make progress and contribute to the project's success. Overall, it was a valuable experience that allowed me to grow as a programmer and work on a meaningful project.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/projects/coderFox.jpg",
+          "images/portfolio/projects/coderFoxLogo.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-rails-plain",
+            "name": "Rails"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           }
         ]
       },
       {
-        "title": "Photography",
+        "title": "Programa Fidelidade Leroy Merlin",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Working on a startup for the first time as a developer was a exciting and challenging experience. I was responsible for creating and maintaining the company's software using a range of technologies, including Ruby on Rails, PostgreSQL, Elasticsearch, Docker, MySQL, and various AWS tools. It was a fast-paced environment with tight deadlines, and I had to learn quickly and adapt to the constantly changing needs of the company. However, the opportunity to work on cutting-edge technologies and play a key role in the success of the startup was extremely rewarding. Overall, it was a valuable experience that allowed me to grow as a programmer and be part of a dynamic and innovative team.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/projects/PRTELogo.png",
+          "images/portfolio/projects/fidelidadeLeroyMerlin.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-rails-plain",
+            "name": "Rails"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Tools"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Mapa de Abastecimento ceasa GO",
+        "startDate": "2020",
+        "description": "As a developer, creating my first project from scratch was a thrilling and challenging experience. I was responsible for planning and designing the project's architecture, as well as choosing the technologies to use. I decided to use Ruby on Rails, PostgreSQL, and the Coordinates gem from PostgreSQL to create a map-like application similar to Uber, but for vegetables. It was a lot of work to get everything set up and running, but I enjoyed the process of learning and problem-solving. In the end, I was able to create a functional and user-friendly application that met the project's requirements. Overall, it was a great experience that allowed me to grow as a programmer and develop my skills in project planning and management.",
+        "images": [
+          "images/portfolio/projects/ceasaLogo.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-rails-plain",
+            "name": "Rails"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "GeoLocation"
+          }
+        ]
+      },
+      {
+        "title": "Scorpion",
+        "startDate": "2021",
+        "description": "Working for a medium-sized company for the first time as a developer was a challenging and rewarding experience. I was assigned to work on a variety of projects, including Scorpion, the main backend system for GetNinjas. This monolithic system was responsible for managing the main database and providing key functionalities for the company. I had to become familiar with a range of technologies, including Ruby on Rails, MySQL, Kubernetes, Docker, JavaScript, and various AWS tools. It was a lot of work to get up to speed and contribute to the project, but I enjoyed the process of learning and problem-solving. Overall, it was a valuable experience that allowed me to grow as a programmer and work on meaningful projects that had a real impact on the company.",
+        "images": [
+          "images/portfolio/projects/Scorpion.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-rails-plain",
+            "name": "Rails"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Tools"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +153,252 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Audit",
+        "startDate": "2021",
+        "description": "As a developer, creating a system for legal compliance with Brazil's data protection law (LGPD) was a challenging and rewarding experience. The system I built was responsible for logging the usage of data from clients, including phone and document numbers, as well as the reason for usage by the company (such as sending a promotional email), the type of data, and the date of usage. To build the system, I used Ruby and linked it to a data warehouse through a data lake using an AWS Simple Queue. It was a lot of work to get everything set up and functioning properly, but I enjoyed the process of learning and problem-solving. In the end, I was able to create a system that met the legal requirements and helped the company ensure compliance with the LGPD. Overall, it was a valuable experience that allowed me to grow as a programmer and contribute to the company's compliance efforts",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/projects/ninjapng.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Tools"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "Authenticator",
+        "startDate": "2021",
+        "description": "Working on a project that manages the creation and validation of tokens for authentication through SMS, WhatsApp, and email was a challenging and rewarding experience as a developer. I had to become familiar with a range of technologies, including Ruby on Rails, Docker, Kubernetes, SQS, and gateways systems. It was a lot of work to get everything set up and functioning properly, but I enjoyed the process of learning and problem-solving. In the end, I was able to create a system that met the project's requirements and provided a secure and convenient way for users to authenticate themselves. Overall, it was a valuable experience that allowed me to grow as a programmer and work on a meaningful project that had a real impact on the company's operations.",
+        "images": [
+          "images/portfolio/projects/authenticator.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Tools"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "Bihan",
+        "startDate": "2022",
+        "description": "Working on a system that provides an interface for front end systems to communicate easily with the back end was a challenging and rewarding experience as a developer. The system, called BFF (back for front end), was written in Ruby using the Grape framework and MongoDB as the database. It was a lot of work to get everything set up and functioning properly, but I enjoyed the process of learning and problem-solving. In the end, I was able to create a system that met the project's requirements and provided a convenient and efficient way for front end systems to communicate with the back end. Overall, it was a valuable experience that allowed me to grow as a programmer and work on a meaningful project that had a real impact on the company's operations.",
+        "images": [
+          "images/portfolio/projects/bihan.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Tools"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          },
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Grape Framework"
+          }
+        ]
+      },
+      {
+        "title": "Offer-Creator",
+        "startDate": "2022",
+        "description": "As a developer, I recently had the opportunity to re-write a daemon project for our company's product. The project involved creating a new architecture that would manage the creation of entities in other microservices, as well as controlling several important flows in the process. The experience was both challenging and rewarding. On the one hand, I had to learn and understand the new architecture and how it fit into the overall product. This required a lot of research and experimentation, as well as close collaboration with my team. On the other hand, the end result was extremely satisfying. The new architecture improved the efficiency and reliability of the demon project, and it was gratifying to see the impact it had on the product as a whole. Overall, it was a great learning experience and I feel more confident in my ability to tackle similar challenges in the future.",
+        "images": [
+          "images/portfolio/projects/getninjasb3.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Tools"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Sidekiq"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          }
+        ]
+      },
+      {
+        "title": "Carrer",
+        "startDate": "2022",
+        "description": "As a developer, I recently had the opportunity to work for a foreign company for the first time. I was tasked with maintaining the internal systems of the company, using a new architecture with Ruby on Rails, MySQL, dry-monads, and a few Russian technologies like Yandex. Overall, it was a short but memorable experience. Working for a foreign company brought new challenges and opportunities, and I enjoyed learning about different business practices and cultural differences. The use of new technologies also kept things interesting and allowed me to expand my skillset. Despite the language barrier and the need to adapt to a new environment, I enjoyed the challenge and was able to contribute to the company's systems in a meaningful way. Overall, it was a valuable experience and I hope to have the opportunity to work for foreign companies in the future.",
+        "images": [
+          "images/portfolio/projects/evroneLogo.PNG"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-rails-plain",
+            "name": "Rails"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Tools"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Sidekiq"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          },
+          {
+            "class": "devicon-ruby-plain",
+            "name": "DRY Tools"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CoderFox",
+        "title": "Full Stack Developer",
+        "years": "02/2017 - 08/2017",                          
         "mainTech": [
-          "Angular 8/9/10"
+          "Ruby On Rails"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "CSS",
+          "Postgresql"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "PRTE Tecnologias",
+        "title": "Back End Developer",
+        "years": "07/2018 - 05/2021",                          
         "mainTech": [
-          "Angular 7/8"
+          "Ruby On Rails"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "REST API",
+          "Docker",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap",
+          "Postgresql",
+          "MySQL",
+          "Sidekiq",
+          "ElasticSearch",
+          "Redis",
+          "AWS tools"
+        ]
+      },
+      {
+        "company": "Getninjas",
+        "title": "Back End Developer",
+        "years": "05/2021 - 09/2022",                          
+        "mainTech": [
+          "Ruby On Rails"
+        ],
+        "technologies": [
+          "REST API",
+          "Grape",
+          "Kubernetes",
+          "Terraform",
+          "MongoDB",
+          "Docker",
+          "JavaScript",
+          "Bootstrap",
+          "Postgresql",
+          "MySQL",
+          "Sidekiq",
+          "ElasticSearch",
+          "Redis",
+          "AWS tools",
+          "JWT",
+          "Oauth"
+        ]
+      },
+      {
+        "company": "Evrone",
+        "title": "Back End Developer",
+        "years": "09/2022 - 12/2022",                          
+        "mainTech": [
+          "Ruby On Rails"
+        ],
+        "technologies": [
+          "REST API",
+          "DRY",
+          "Docker",
+          "JavaScript",
+          "MySQL",
+          "Sidekiq",
+          "Redis",
+          "AWS tools"
         ]
       }
     ]
