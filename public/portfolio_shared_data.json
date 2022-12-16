@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "J.C Engineering",
+      "titles": [ "Back-End Developer", "Software Engineering", "Front-End Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Tokinh0",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/jean-carlos-de-alc%C3%A2ntara-8a702313a/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "eo.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
+          "level": "80"
+        },
+        {
+          "name": "Rails",
+          "class": "devicon-rails-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },
+        {
+          "name": "Postgres",
+          "class": "devicon-postgresql-plain",
+          "level": "75"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "65"
+        }
+      ]
+    }
+  }
