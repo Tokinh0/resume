@@ -1,0 +1,301 @@
+{
+  "basic_info": {
+    "description_header": "Sobre mim",
+    "description": "Ola! 👋 Meu nome é Jean Carlos, e minha paixão é o conhecimento. 💜 Como um programador altamente motivado e detalhista com 4 anos de experiência em Ruby on Rails, tenho uma forte paixão por aprender novas tecnologias e estou constantemente em busca de novos desafios. Atualmente estou aprendendo React para expandir minhas habilidades de front-end e estou animado para trazer minha experiência para novos projetos. ⭐",
+    "section_name": {
+      "about": "Quem é essa pessoinha?",
+      "projects": "Projetos",
+      "skills": "Habilidades",
+      "experience": "Experiências Profissionais"
+    }
+  },
+  "projects": [
+    {
+      "title": "PixPrint",
+      "startDate": "2017",
+      "description": "",
+      "images": [
+        "images/portfolio/projects/coderFox.jpg",
+        "images/portfolio/projects/coderFoxLogo.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "Programa Fidelidade Leroy Merlin",
+      "startDate": "2018",
+      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "images": [
+        "images/portfolio/projects/PRTELogo.png",
+        "images/portfolio/projects/fidelidadeLeroyMerlin.jpeg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Mapa de Abastecimento ceasa GO",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/projects/ceasaLogo.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Scorpion",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/projects/Scorpion.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Audit",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/projects/ninjapng.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Authenticator",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/projects/authenticator.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Bihan",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/projects/bihan.jpeg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Offer-Creator",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/projects/getninjasb3.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Carrer",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/projects/evroneLogo.PNG"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "CoderFox",
+      "title": "Full Stack Developer",
+      "years": "02/2017 - 08/2017",                          
+      "mainTech": [
+        "Ruby On Rails"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "HTML",
+        "CSS",
+        "Postgresql"
+      ]
+    },
+    {
+      "company": "PRTE Tecnologias",
+      "title": "Back End Developer",
+      "years": "07/2018 - 05/2021",                          
+      "mainTech": [
+        "Ruby On Rails"
+      ],
+      "technologies": [
+        "REST API",
+        "Docker",
+        "JavaScript",
+        "Bootstrap",
+        "Postgresql",
+        "MySQL",
+        "Sidekiq",
+        "ElasticSearch",
+        "Redis",
+        "AWS tools"
+      ]
+    },
+    {
+      "company": "Getninjas",
+      "title": "Back End Developer",
+      "years": "05/2021 - 09/2022",                          
+      "mainTech": [
+        "Ruby On Rails"
+      ],
+      "technologies": [
+        "REST API",
+        "Grape",
+        "Kubernetes",
+        "Terraform",
+        "MongoDB",
+        "Docker",
+        "JavaScript",
+        "Bootstrap",
+        "Postgresql",
+        "MySQL",
+        "Sidekiq",
+        "ElasticSearch",
+        "Redis",
+        "AWS tools",
+        "JWT",
+        "Oauth"
+      ]
+    },
+    {
+      "company": "Evrone",
+      "title": "Back End Developer",
+      "years": "09/2022 - 12/2022",                          
+      "mainTech": [
+        "Ruby On Rails"
+      ],
+      "technologies": [
+        "REST API",
+        "DRY",
+        "Docker",
+        "JavaScript",
+        "MySQL",
+        "Sidekiq",
+        "Redis",
+        "AWS tools"
+      ]
+    }
+  ]
+}
