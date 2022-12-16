@@ -13,7 +13,7 @@
     {
       "title": "PixPrint",
       "startDate": "2017",
-      "description": "",
+      "description": "Como desenvolvedor, trabalhar pela primeira vez em um projeto que gerencia o processo de fabricação de lousas foi uma experiência desafiadora e recompensadora. Tive que me familiarizar com as especificações e requisitos do projeto, bem como com as tecnologias utilizadas, incluindo Ruby on Rails, HTML, CSS e PostgreSQL. A configuração do ambiente de desenvolvimento e a construção do aplicativo exigiram muito aprendizado e resolução de problemas, mas consegui progredir e contribuir para o sucesso do projeto. No geral, foi uma experiência valiosa que me permitiu crescer como programador e trabalhar em um projeto significativo.",
       "images": [
         "images/portfolio/projects/coderFox.jpg",
         "images/portfolio/projects/coderFoxLogo.jpg"
@@ -37,16 +37,114 @@
     {
       "title": "Programa Fidelidade Leroy Merlin",
       "startDate": "2018",
-      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "description": "Trabalhar em uma startup pela primeira vez como desenvolvedor foi uma experiência empolgante e desafiadora. Fui responsável pela criação e manutenção do software da empresa usando diversas tecnologias, incluindo Ruby on Rails, PostgreSQL, Elasticsearch, Docker, MySQL e várias ferramentas da AWS. Era um ambiente de ritmo acelerado com prazos apertados e tive que aprender rapidamente e me adaptar às necessidades da empresa em constante mudança. No entanto, a oportunidade de trabalhar com tecnologias de ponta e desempenhar um papel fundamental para o sucesso da startup foi extremamente gratificante. No geral, foi uma experiência valiosa que me permitiu crescer como programador e fazer parte de uma equipa dinâmica e inovadora.",
       "images": [
         "images/portfolio/projects/PRTELogo.png",
         "images/portfolio/projects/fidelidadeLeroyMerlin.jpeg"
       ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-redis-plain",
+          "name": "Redis"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS Tools"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Mapa de Abastecimento ceasa GO",
+      "startDate": "2020",
+      "description": "Como desenvolvedor, criar meu primeiro projeto do zero foi uma experiência emocionante e desafiadora. Fui responsável pelo planejamento e desenho da arquitetura do projeto, bem como pela escolha das tecnologias a serem utilizadas. Decidi usar Ruby on Rails, PostgreSQL e a gema Coordinates do PostgreSQL para criar um aplicativo tipo mapa semelhante ao Uber, mas para vegetais. Deu muito trabalho deixar tudo configurado e funcionando, mas gostei do processo de aprendizado e resolução de problemas. No final, consegui criar um aplicativo funcional e amigável que atendeu aos requisitos do projeto. No geral, foi uma ótima experiência que me permitiu crescer como programador e desenvolver minhas habilidades em planejamento e gerenciamento de projetos.",
+      "images": [
+        "images/portfolio/projects/ceasaLogo.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "GeoLocation"
+        }
+      ]
+    },
+    {
+      "title": "Scorpion",
+      "startDate": "2021",
+      "description": "Trabalhar pela primeira vez em uma empresa de médio porte como desenvolvedor foi uma experiência desafiadora e recompensadora. Fui designado para trabalhar em vários projetos, incluindo o Scorpion, o principal sistema de back-end do GetNinjas. Este sistema monolítico foi responsável por gerenciar o banco de dados principal e fornecer funcionalidades essenciais para a empresa. Tive que me familiarizar com uma variedade de tecnologias, incluindo Ruby on Rails, MySQL, Kubernetes, Docker, JavaScript e várias ferramentas da AWS. Deu muito trabalho atualizar e contribuir com o projeto, mas gostei do processo de aprendizado e resolução de problemas. No geral, foi uma experiência valiosa que me permitiu crescer como programador e trabalhar em projetos significativos que tiveram um impacto real na empresa.",
+      "images": [
+        "images/portfolio/projects/Scorpion.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-redis-plain",
+          "name": "Redis"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS Tools"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-kubernetes-plain",
+          "name": "Kubernetes"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
         },
         {
           "class": "devicon-javascript-plain",
@@ -55,163 +153,169 @@
       ]
     },
     {
-      "title": "Mapa de Abastecimento ceasa GO",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-      "images": [
-        "images/portfolio/projects/ceasaLogo.png"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
-      "title": "Scorpion",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-      "images": [
-        "images/portfolio/projects/Scorpion.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
       "title": "Audit",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "startDate": "2021",
+      "description": "Como desenvolvedor, criar um sistema de conformidade legal com a lei de proteção de dados do Brasil (LGPD) foi uma experiência desafiadora e gratificante. O sistema que construí foi responsável por registrar o uso de dados dos clientes, incluindo números de telefone e documentos, bem como o motivo do uso pela empresa (como envio de e-mail promocional), o tipo de dados e a data de uso . Para construir o sistema, usei Ruby e o vinculei a um data warehouse por meio de um data lake usando um AWS Simple Queue. Deu muito trabalho deixar tudo configurado e funcionando corretamente, mas gostei do processo de aprendizado e resolução de problemas. No final, consegui criar um sistema que atendeu aos requisitos legais e ajudou a empresa a garantir o cumprimento da LGPD. No geral, foi uma experiência valiosa que me permitiu crescer como programador e contribuir com os esforços de compliance da empresa.",
       "images": [
         "images/portfolio/projects/ninjapng.png"
       ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS Tools"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-kubernetes-plain",
+          "name": "Kubernetes"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
         }
       ]
     },
     {
       "title": "Authenticator",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "startDate": "2021",
+      "description": "Trabalhar em um projeto que gerencia a criação e validação de tokens para autenticação por SMS, WhatsApp e e-mail foi uma experiência desafiadora e gratificante como desenvolvedor. Tive que me familiarizar com uma variedade de tecnologias, incluindo Ruby on Rails, Docker, Kubernetes, SQS e sistemas de gateways. Deu muito trabalho deixar tudo configurado e funcionando corretamente, mas gostei do processo de aprendizado e resolução de problemas. No final, consegui criar um sistema que atendeu aos requisitos do projeto e forneceu uma maneira segura e conveniente para os usuários se autenticarem. No geral, foi uma experiência valiosa que me permitiu crescer como programador e trabalhar em um projeto significativo que teve um impacto real nas operações da empresa.",
       "images": [
         "images/portfolio/projects/authenticator.png"
       ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS Tools"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-kubernetes-plain",
+          "name": "Kubernetes"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
         }
       ]
     },
     {
       "title": "Bihan",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "startDate": "2022",
+      "description": "Trabalhar em um sistema que fornece uma interface para que os sistemas front-end se comuniquem facilmente com o back-end foi uma experiência desafiadora e recompensadora como desenvolvedor. O sistema, chamado BFF (back for front end), foi escrito em Ruby usando o framework Grape e MongoDB como banco de dados. Deu muito trabalho deixar tudo configurado e funcionando corretamente, mas gostei do processo de aprendizado e resolução de problemas. No final, consegui criar um sistema que atendeu aos requisitos do projeto e forneceu uma maneira conveniente e eficiente para os sistemas de front-end se comunicarem com o back-end. No geral, foi uma experiência valiosa que me permitiu crescer como programador e trabalhar em um projeto significativo que teve um impacto real nas operações da empresa.",
       "images": [
         "images/portfolio/projects/bihan.jpeg"
       ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS Tools"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-kubernetes-plain",
+          "name": "Kubernetes"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Grape Framework"
         }
       ]
     },
     {
       "title": "Offer-Creator",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "startDate": "2022",
+      "description": "Como desenvolvedor, recentemente tive a oportunidade de reescrever um projeto assincrono para o produto de nossa empresa. O projeto envolvia a criação de uma nova arquitetura que gerenciasse a criação de entidades em outros microsserviços, além de controlar diversos fluxos importantes no processo. A experiência foi desafiadora e gratificante. Por um lado, tive que aprender e entender a nova arquitetura e como ela se encaixava no produto como um todo. Isso exigiu muita pesquisa e experimentação, bem como uma estreita colaboração com minha equipe. Por outro lado, o resultado final foi extremamente satisfatório. A nova arquitetura melhorou a eficiência e a confiabilidade do projeto demon, e foi gratificante ver o impacto que teve no produto como um todo. No geral, foi uma grande experiência de aprendizado e me sinto mais confiante em minha capacidade de enfrentar desafios semelhantes no futuro.",
       "images": [
         "images/portfolio/projects/getninjasb3.png"
       ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS Tools"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-kubernetes-plain",
+          "name": "Kubernetes"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Sidekiq"
+        },
+        {
+          "class": "devicon-redis-plain",
+          "name": "Redis"
         }
       ]
     },
     {
       "title": "Carrer",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "startDate": "2022",
+      "description": "Como desenvolvedor, recentemente tive a oportunidade de trabalhar para uma empresa estrangeira pela primeira vez. Fui encarregado de manter os sistemas internos da empresa, utilizando uma nova arquitetura com Ruby on Rails, MySQL, dry-monads e algumas tecnologias russas como Yandex. No geral, foi uma experiência curta, mas memorável. Trabalhar para uma empresa estrangeira trouxe novos desafios e oportunidades, e gostei de aprender sobre diferentes práticas de negócios e diferenças culturais. O uso de novas tecnologias também manteve as coisas interessantes e me permitiu expandir meu conjunto de habilidades. Apesar da barreira do idioma e da necessidade de adaptação a um novo ambiente, gostei do desafio e pude contribuir com os sistemas da empresa de forma significativa. No geral, foi uma experiência valiosa e espero ter a oportunidade de trabalhar para empresas estrangeiras no futuro.",
       "images": [
         "images/portfolio/projects/evroneLogo.PNG"
       ],
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-rails-plain",
+          "name": "Rails"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS Tools"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Sidekiq"
+        },
+        {
+          "class": "devicon-redis-plain",
+          "name": "Redis"
+        },
+        {
+          "class": "devicon-ruby-plain",
+          "name": "DRY Tools"
         }
       ]
     }
