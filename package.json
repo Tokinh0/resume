@@ -22,8 +22,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build"
+    "build": "react-scripts build --openssl-legacy-provider",
+    "start": "react-scripts start --openssl-legacy-provider"
   },
   "eslintConfig": {
     "extends": "react-app"
