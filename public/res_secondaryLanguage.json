@@ -12,7 +12,7 @@
     "projects": [
       {
         "title": "PixPrint",
-        "startDate": "2017",
+        "startDate": "2019",
         "description": "As a developer, working on a project that manages the process of manufacturing blackboards for the first time was a challenging and rewarding experience. I had to become familiar with the project's specification and requirements, as well as the technologies being used, including Ruby on Rails, HTML, CSS, and PostgreSQL. Setting up the development environment and building the application required a lot of learning and problem-solving, but I was able to make progress and contribute to the project's success. Overall, it was a valuable experience that allowed me to grow as a programmer and work on a meaningful project.",
         "images": [
           "images/portfolio/projects/coderFox.jpg",
@@ -36,7 +36,7 @@
       },
       {
         "title": "Programa Fidelidade Leroy Merlin",
-        "startDate": "2018",
+        "startDate": "2019",
         "description": "Working on a startup for the first time as a developer was a exciting and challenging experience. I was responsible for creating and maintaining the company's software using a range of technologies, including Ruby on Rails, PostgreSQL, Elasticsearch, Docker, MySQL, and various AWS tools. It was a fast-paced environment with tight deadlines, and I had to learn quickly and adapt to the constantly changing needs of the company. However, the opportunity to work on cutting-edge technologies and play a key role in the success of the startup was extremely rewarding. Overall, it was a valuable experience that allowed me to grow as a programmer and be part of a dynamic and innovative team.",
         "images": [
           "images/portfolio/projects/PRTELogo.png",
@@ -324,7 +324,7 @@
       {
         "company": "CoderFox",
         "title": "Full Stack Developer",
-        "years": "02/2017 - 08/2017",                          
+        "years": "05/2019 - 08/2019",                          
         "mainTech": [
           "Ruby On Rails"
         ],
@@ -340,7 +340,7 @@
       {
         "company": "PRTE Tecnologias",
         "title": "Back End Developer",
-        "years": "07/2018 - 05/2021",                          
+        "years": "10/2019 - 05/2021",                          
         "mainTech": [
           "Ruby On Rails"
         ],
