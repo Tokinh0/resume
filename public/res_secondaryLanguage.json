@@ -1,7 +1,7 @@
   {
     "basic_info": {
       "description_header": "Who am I?",
-      "description": "Hi there 👋 I'm Jean Carlos and my passion is knowledge. 💜 As a highly motivated and detail-oriented programmer with 4 years of experience in Ruby on Rails, I have a strong passion for learning new technologies and am constantly seeking out new challenges. I am currently learning React to expand my front-end skills and am excited to bring my expertise to new projects. ⭐",
+      "description": "Hi there 👋 I'm Jean Carlos and my passion is knowledge. 💜 As a highly motivated and detail-oriented programmer with more then 6 years of experience in Ruby on Rails, I have a strong passion for learning new technologies and am constantly seeking out new challenges. I am currently learning React to expand my front-end skills and am excited to bring my expertise to new projects. ⭐",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -318,7 +318,85 @@
             "name": "DRY Tools"
           }
         ]
-      }
+      },
+      {
+        "title": "TapGoods – U.S. Rental Management Platform",
+        "startDate": "2023",
+        "description": "Since May 2023, I’ve been working as a backend developer at TapGoods, a rental software platform based in the U.S. My primary responsibilities include building and maintaining QuickBooks integration features such as invoice creation, payment syncing, and journal entry exports. I’ve also led improvements to automated email flows, such as payment reminders and error tracking alerts. My work involves collaborating closely with product and engineering teams to ensure high reliability and business impact in a complex and high-volume production environment.",
+        "images": [
+          "images/portfolio/projects/tapgoods_logo.png"
+        ],
+        "url": "https://www.tapgoods.com/",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-rails-plain",
+            "name": "Rails"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS (S3, CloudFront)"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "Reventals – Online Rental Marketplace",
+        "startDate": "2023",
+        "description": "As part of the TapGoods team, I also contribute to Reventals, an online marketplace for rental items. My role involves developing and maintaining backend systems that support vendor inventory, cart flows, customer quotes, and email automation for abandoned carts and follow-ups. I’ve also helped optimize Elasticsearch queries for better performance and built GraphQL endpoints to expose inventory and pricing data used by the frontend. Reventals required a deep understanding of rental-specific logic and tight collaboration with the QA and product teams.",
+        "images": [
+          "images/portfolio/projects/reventals_logo.png"
+        ],
+        "url": "https://www.reventals.com/",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-rails-plain",
+            "name": "Rails"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-elasticsearch-plain",
+            "name": "Elasticsearch"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }            
     ],
     "experience": [
       {
@@ -399,6 +477,30 @@
           "Sidekiq",
           "Redis",
           "AWS tools"
+        ]
+      },
+      {
+        "company": "TapGoods",
+        "title": "Full Stack Developer",
+        "years": "05/2023 - Present",
+        "mainTech": [
+          "Ruby On Rails"
+        ],
+        "technologies": [
+          "GraphQL",
+          "REST API",
+          "PostgreSQL",
+          "Sidekiq",
+          "Redis",
+          "Docker",
+          "Elasticsearch",
+          "AWS (S3, CloudFront)",
+          "Datadog",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "JWT",
+          "Oauth"
         ]
       }
     ]
