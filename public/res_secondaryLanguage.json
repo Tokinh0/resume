@@ -324,7 +324,7 @@
         "startDate": "2023",
         "description": "Since May 2023, I’ve been working as a backend developer at TapGoods, a rental software platform based in the U.S. My primary responsibilities include building and maintaining QuickBooks integration features such as invoice creation, payment syncing, and journal entry exports. I’ve also led improvements to automated email flows, such as payment reminders and error tracking alerts. My work involves collaborating closely with product and engineering teams to ensure high reliability and business impact in a complex and high-volume production environment.",
         "images": [
-          "images/portfolio/projects/tapgoods_logo.png"
+          "images/portfolio/projects/tapgoods_logo.jpg"
         ],
         "url": "https://www.tapgoods.com/",
         "technologies": [
@@ -505,4 +505,3 @@
       }
     ]
   }
-  
